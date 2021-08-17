@@ -5,6 +5,11 @@ html {
   font-size: 1.25rem;
   line-height: 2.5rem; }
 
+.site-logo {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .nav-link {
   padding: 0;
   font-size: 1.25rem;
@@ -46,10 +51,10 @@ footer a:not(.nav-link) {
   cursor: pointer; }
 
 @media (min-width: 48em) {
-  .site-title {
-    float: left; }
-  .site-nav {
-    float: right; }
+  /*.site-title {*/
+  /*  float: left; }*/
+  /*.site-nav {*/
+  /*  float: right; }*/
   .avatar {
     margin-bottom: -80px;
     margin-left: 0; } }
